@@ -36,5 +36,5 @@ Turning ideas into real products through code is my daily drive.
 
 ## 📫 Contact
 - GitHub: [@Murodiljon07](https://github.com/Murodiljon07)  
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/murodiljon-abdumutalov-43a26339b/)  
+- LinkedIn: [Murodiljon Abdumutalov](https://www.linkedin.com/in/murodiljon-abdumutalov-43a26339b/)  
 - Email: murodiljonabdumutalovtg1@gmail.com
