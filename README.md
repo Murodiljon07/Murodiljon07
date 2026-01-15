@@ -35,6 +35,6 @@ Turning ideas into real products through code is my daily drive.
 ---
 
 ## 📫 Contact
-- GitHub: [@YourUsername](https://github.com/YourUsername)  
-- LinkedIn: [YourLinkedIn](#)  
+- GitHub: [@YourUsername](https://github.com/Murodiljon07)  
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/murodiljon-abdumutalov-43a26339b/)  
 - Email: youremail@example.com
