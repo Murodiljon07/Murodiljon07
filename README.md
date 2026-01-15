@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Murodiljon
 
-<!--
-**Murodiljon07/Murodiljon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | React & Python | Aspiring Full-Stack Engineer**  
 
-Here are some ideas to get you started:
+I love building clean, scalable web apps and learning new technologies every day.  
+Turning ideas into real products through code is my daily drive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+- Learning **Full-Stack Development**  
+- Focused on **React** (Frontend) & **Python** (Backend)  
+- Passionate about clean code, readable architecture, and real projects  
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React ⚛️  
+**Backend:** Python 🐍, REST APIs  
+**Tools:** Git, GitHub, Linux, VSCode 🛠️  
+
+---
+
+## 🎯 My Goals
+- Become a strong **Full-Stack Developer** 🚀  
+- Build meaningful applications 🌟  
+- Improve coding skills daily 💡  
+
+---
+
+## 📈 GitHub Stats
+![Murodiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+- GitHub: [@YourUsername](https://github.com/YourUsername)  
+- LinkedIn: [YourLinkedIn](#)  
+- Email: youremail@example.com
