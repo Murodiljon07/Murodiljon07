@@ -29,8 +29,8 @@ Turning ideas into real products through code is my daily drive.
 ---
 
 ## 📈 GitHub Stats
-![Murodiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Murodiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murodiljon07&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murodiljon07&layout=compact&theme=radical)
 
 ---
 
