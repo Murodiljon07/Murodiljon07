@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Murodiljon
 
-💻 **Web Developer | React & Python | Aspiring Full-Stack Engineer**  
+💻 **Web Developer | React & Next | Aspiring Full-Stack Engineer**  
 
 I love building clean, scalable web apps and learning new technologies every day.  
 Turning ideas into real products through code is my daily drive.
