@@ -15,7 +15,7 @@ Turning ideas into real products through code is my daily drive.
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React ⚛️  , Next.ts
+**Frontend:** HTML, CSS, JavaScript, React ⚛️, Next.ts
 **Backend:** Node.js, Express, REST APIs  
 **Tools:** Git, GitHub, Linux, VSCode 🛠️  
 
