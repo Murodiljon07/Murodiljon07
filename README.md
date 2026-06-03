@@ -9,14 +9,14 @@ Turning ideas into real products through code is my daily drive.
 
 ## 🌱 About Me
 - Learning **Full-Stack Development**  
-- Focused on **React** (Frontend) & **Python** (Backend)  
+- Focused on **Next.ts** (Frontend) & **Node.js** (Backend)  
 - Passionate about clean code, readable architecture, and real projects  
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React ⚛️  
-**Backend:** Python 🐍, REST APIs  
+**Frontend:** HTML, CSS, JavaScript, React ⚛️  , Next.ts
+**Backend:** Node.js, Express, REST APIs  
 **Tools:** Git, GitHub, Linux, VSCode 🛠️  
 
 ---
