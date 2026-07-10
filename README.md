@@ -129,7 +129,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Murodiljon07&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Murodiljon07&show_icons=true&theme=tokyonight&v=2"/>
 
 </div>
 
