@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/Murodiljon07">
+<a href="https://github.com/Murodiljon07" target="_blank">
 <img src="https://img.shields.io/github/followers/Murodiljon07?style=for-the-badge&logo=github"/>
 </a>
 
