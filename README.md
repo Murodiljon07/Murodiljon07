@@ -111,6 +111,10 @@ const murodiljon = {
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://t.me/Murodiljon2711">
+<img src="https://skillicons.dev/icons?i=telegram" />
+</a>
+
 </p>
 
 📧 Email: **[murodiljonabdumutalovtg1@gmail.com](mailto:murodiljonabdumutalovtg1@gmail.com)**
