@@ -13,7 +13,7 @@
 ```javascript
 const murodiljon = {
   location: "Uzbekistan 🇺🇿",
-  role: "FullStack Developer",
+  role: "Full-Stack Engineer",
   learning: ["Node.js", "Express.js", "MongoDB"],
   frontend: ["React", "Next.js", "TypeScript"],
   goal: "Become a Strong Full-Stack Engineer",
