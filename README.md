@@ -22,10 +22,8 @@
 
 ---
 
-# 👨‍💻 About Me 
-<p>
-<img src="https://skillicons.dev/icons?i=apple" />
-</p>
+# 👨‍💻 About Me <img src="https://skillicons.dev/icons?i=apple" />
+
 
 ```ts
 const me = {
